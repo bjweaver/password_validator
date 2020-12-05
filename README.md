@@ -29,13 +29,3 @@ An example input_password.txt file is provided. Run with:
 ```
 cat input_password.txt| ./password_validator
 ```
-
-## License MIT
-
-
-
-
-
-
-
-
