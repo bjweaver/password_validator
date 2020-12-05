@@ -24,20 +24,6 @@ func main() {
 		}
 	}
 
-	// 	if !check_length(word) {
-	// 		fmt.Println(word, "-> Error: bad length ")
-	// 	}
-	// 	if contains(word, common_pass) {
-	// 		fmt.Println(word, "-> Error: Too Common")
-	// 	}
-
-	// 	new_string, isasc := isASCII(word)
-
-	// 	if !isasc {
-	// 		fmt.Println(new_string, "-> Error: Invalid Characters")
-	// 	}
-	// }
-
 }
 
 func test_password(word string) (bool, string) {
